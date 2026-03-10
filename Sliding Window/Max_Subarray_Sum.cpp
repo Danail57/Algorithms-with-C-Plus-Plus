@@ -21,6 +21,6 @@ int main() {
     vector <int> nums = {2, 6, 5, 1, 3, 2};
     int window_size = 3;
     int result = max_subarray_sum(nums, window_size);
-    cout << "MAx subarray sum = " << result << endl;
+    cout << "Max subarray sum = " << result << endl;
     return 0;
 }
