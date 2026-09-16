@@ -2,6 +2,7 @@
 
 Answer: Selection Sort is best used for small datasets, educational purposes, or when memory usage needs to be minimal.
 
+-----------------------------
 
 *How does Selection Sort differ from Bubble Sort?*
 
