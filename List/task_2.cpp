@@ -26,7 +26,7 @@ void print_common_values(vector<int> list1, vector<int> list2)
 	bool found_common = false;
 	for (size_t i = 0; i < list1.size(); i++)
 	{
-		for (size_t j = 0; j < list1.size(); j++)
+		for (size_t j = 0; j < list2.size(); j++)
 		{
 			if (list1[i] == list2[j])
 			{
